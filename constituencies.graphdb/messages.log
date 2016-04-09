@@ -1930,3 +1930,16 @@ Storage files: (filename : modification date - size)
 2016-04-09 16:50:14.631+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
 2016-04-09 16:50:15.836+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 203ms.
 2016-04-09 16:50:17.379+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 480ms.
+2016-04-09 16:55:22.934+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 313ms.
+2016-04-09 16:55:25.000+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Starting check pointing...
+2016-04-09 16:55:25.002+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Starting store flush...
+2016-04-09 16:55:25.217+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 71 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 16:55:25.225+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 71 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 16:55:25.583+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Store flush completed
+2016-04-09 16:55:25.584+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Starting appending check point entry into the tx log...
+2016-04-09 16:55:25.606+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Appending check point entry into the tx log completed
+2016-04-09 16:55:25.607+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [71]:  Check pointing completed
+2016-04-09 16:55:25.609+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-09 16:55:25.610+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-09 16:55:31.556+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 653ms.
+2016-04-09 16:55:32.123+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 287ms.
