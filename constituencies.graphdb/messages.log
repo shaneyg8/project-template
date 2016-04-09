@@ -2093,3 +2093,40 @@ Storage files: (filename : modification date - size)
 2016-04-09 18:04:54.466+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
 2016-04-09 18:04:54.467+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
 2016-04-09 18:05:20.537+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 252ms.
+2016-04-09 18:07:19.532+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 780ms.
+2016-04-09 18:09:03.773+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 205ms.
+2016-04-09 18:09:04.251+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 377ms.
+2016-04-09 18:09:55.017+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Starting check pointing...
+2016-04-09 18:09:55.019+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Starting store flush...
+2016-04-09 18:09:55.223+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 89 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 18:09:55.230+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 89 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 18:09:55.394+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Store flush completed
+2016-04-09 18:09:55.395+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Starting appending check point entry into the tx log...
+2016-04-09 18:09:55.418+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Appending check point entry into the tx log completed
+2016-04-09 18:09:55.419+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [89]:  Check pointing completed
+2016-04-09 18:09:55.419+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-09 18:09:55.420+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-09 18:11:44.448+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1173ms.
+2016-04-09 18:12:12.907+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 292ms.
+2016-04-09 18:12:14.953+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 530ms.
+2016-04-09 18:12:27.844+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 218ms.
+2016-04-09 18:12:37.318+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 304ms.
+2016-04-09 18:12:38.632+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 212ms.
+2016-04-09 18:12:39.174+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 314ms.
+2016-04-09 18:12:39.918+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 206ms.
+2016-04-09 18:12:43.330+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 248ms.
+2016-04-09 18:13:29.028+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 238ms.
+2016-04-09 18:14:42.856+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 270ms.
+2016-04-09 18:14:55.864+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Starting check pointing...
+2016-04-09 18:14:55.865+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Starting store flush...
+2016-04-09 18:14:55.963+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 98 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b].
+2016-04-09 18:14:55.971+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 98 to [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\SHANE\Documents\GitHub\project-template\constituencies.graphdb\neostore.counts.db.b].
+2016-04-09 18:14:56.079+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Store flush completed
+2016-04-09 18:14:56.080+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Starting appending check point entry into the tx log...
+2016-04-09 18:14:56.107+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Appending check point entry into the tx log completed
+2016-04-09 18:14:56.107+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [98]:  Check pointing completed
+2016-04-09 18:14:56.108+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-09 18:14:56.109+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-09 18:15:22.050+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 356ms.
+2016-04-09 18:15:37.133+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 272ms.
+2016-04-09 18:15:38.727+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 219ms.
