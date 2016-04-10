@@ -59,8 +59,7 @@ RETURN a;
 
 ## References
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
-2. [Wikipedia website - Irish Constituencies](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland), Parliamentary constituencies in the Republic of Ireland.
-3. [TheJournal website - Candidates](http://www.thejournal.ie/election-2016/constituency/), the website with information on all the candidates running.
-4. [Wikipedia website - Irish Parties](https://en.wikipedia.org/wiki/List_of_political_parties_in_the_Republic_of_Ireland), the website with information on all Irish Parties in government.
-5. [Wikipedia website for Constituencies](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland)
-6. Other Students-**Andy Blankley** Helped me think of some interesting queries 
+2. [TheJournal website - Candidates](http://www.thejournal.ie/election-2016/constituency/), the website with information on all the candidates running.
+3. [Wikipedia website - Irish Parties](https://en.wikipedia.org/wiki/List_of_political_parties_in_the_Republic_of_Ireland), the website with information on all Irish Parties in government.
+4. [Wikipedia website for Constituencies](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland)
+5. Other Students-**Andy Blankley** Helped me think of some interesting queries 
